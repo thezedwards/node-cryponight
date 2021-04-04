@@ -1,0 +1,5 @@
+image:
+  file: Dockerfile 
+  
+tasks:          
+     command: sudo apt-get install -y libboost-all-dev libsodium-dev
